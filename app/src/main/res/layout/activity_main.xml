@@ -41,7 +41,7 @@
         android:layout_height="46dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="  Telepon"
+        android:text="   Email"
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="341dp" />
 
